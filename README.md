@@ -5,3 +5,7 @@
 有2°的拉力线调整范围，使用M4螺丝锁紧
 
 电池推荐使用两节3S 4000mah 串联6S，请注意尺寸！！
+
+视频
+https://www.bilibili.com/video/BV1PMsfzJELo/?vd_source=10609c4482ffb8aa124c2c2cf541a8ac
+
